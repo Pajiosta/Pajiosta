@@ -14,7 +14,7 @@
 </div>
 ### :man_technologist: About Me : I'm just doing my home task :raised_eyebrow:
 
-- :sneezing_face: Trying to improve my informatic skils.
+- :sneezing_face: Trying to improve my programming skils.
   
 - :zap: In my free time... I alredy dont have free time. :sweat_smile:
 
