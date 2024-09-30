@@ -9,3 +9,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzcyOHc0bWhtbXZiYzl2YXJ3M3RsMDYwYTJsMWhlMjhkbmY3dWo1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2sbLlG7XNuzzeVKvw0/giphy.gif" width="500" height="400"/>
+</div>
